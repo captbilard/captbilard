@@ -1,10 +1,15 @@
 ### Hi there 👋
-I'm a tech enthusiast who has a knack for a lot of things. I enjoy learning and quite passionate about it, always willing to learn and work across various technologies & domains. 
-I feel right home when developing solutions using frameworks such as Django & NodeJS. I love to explore new technologies and use them to solve real life problems, I recently dwelved into the Deep Learning world of Artificail Intelligence using Python & Pytorch. ...Something's cooking 🔥
+I'm a tech enthusiast who has a knack for a lot of things. I enjoy learning and I'm quite passionate about it, always willing to learn and work across various technologies & domains. 
+My stack includes:
+- Languages: Python, JavaScript
+- Frameworks: Django, Django-Rest-Framework, Flask
+- Databases: MySQL, PostgreSQL, MongoDB
+- Others: Linux, Agile, AWS
+
 
 📫 How to reach me:
 - ✉️ : bilardosinulu@gmail.com
-- 🔗 : [Capt Bilard](https://www.bilard.xyz/)
+- 🔗 : [bilard.xyz](https://www.bilard.xyz/)
 
 ⚡ Fun fact: 
 - I'm a huge plantain lover, we can always discuss over a plate of fried plantains 😄
