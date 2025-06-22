@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a tech enthusiast who has a knack for a lot of things. I enjoy learning and I'm quite passionate about it, always willing to learn and work across various technologies & domains. 
 My stack includes:
-- Languages: Python, JavaScript, Typescript
-- Frameworks: Nodejs, NestJS, Angular, React, Django, Django-Rest-Framework, Flask
+- Languages: Go, JavaScript, Typescript, Python
+- Frameworks: Nodejs, NestJS, Django, Django-Rest-Framework, Flask
 - Databases: MySQL, PostgreSQL, MongoDB
 - Others: Linux, Agile, AWS
 
